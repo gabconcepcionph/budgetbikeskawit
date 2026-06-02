@@ -1,0 +1,10 @@
+# TODO - Budget Bikes Kawit
+
+## Missing Data to Fill In
+- Rating: [FILL IN RATING]
+- Review Count: [FILL IN REVIEW COUNT]
+
+## Notes
+- Google Maps page is JavaScript-rendered, could not extract business details
+- Used data from Facebook search results
+- Images downloaded from Unsplash as fallback
